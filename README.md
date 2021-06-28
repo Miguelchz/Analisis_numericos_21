@@ -2,5 +2,5 @@
 Proyecto final de analisis numerico
 
 Alumnos
-Chávez Hernández, José Miguel
-Nerio Hernández, Daniel Ernesto
+-Chávez Hernández, José Miguel
+-Nerio Hernández, Daniel Ernesto
